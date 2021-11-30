@@ -7,6 +7,8 @@ List of languages in this repo:
 Interpreted:
 Python  
 JavaScript  
+Batch  
+Bash  
 
 Compiled:  
 C  
