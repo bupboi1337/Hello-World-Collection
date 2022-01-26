@@ -9,6 +9,7 @@ Python
 JavaScript  
 Batch  
 Bash  
+Basic  
 
 Compiled:  
 C  
