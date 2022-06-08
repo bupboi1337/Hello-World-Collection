@@ -4,12 +4,13 @@ This uses the MIT Licence so yeah.
 Hello World in a bunch of different languages.  
 List of languages in this repo:  
 
-Interpreted:
+Interpreted:  
 Python  
 JavaScript  
 Batch  
 Bash  
 Basic  
+Brainfuck
 
 Compiled:  
 C  
